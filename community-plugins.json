@@ -57216,5 +57216,12 @@
     "author": "milad-s5",
     "description": "Sets each line's text direction from the majority of its words, so a Persian, Arabic or Hebrew line that starts with an English word still reads right-to-left. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "milad-s5/obsidian-smart-rtl"
+  },
+  {
+    "id": "panic-mode",
+    "name": "Panic Mode (Modalità Privata)",
+    "author": "andreamaui",
+    "description": "One-tap privacy: dark blurred overlay instantly covers your whole vault; unlock only with your personal PIN (salted SHA-256).",
+    "repo": "andreamaui/panic-mode"
   }
 ]
